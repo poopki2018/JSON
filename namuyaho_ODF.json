@@ -1,5 +1,12 @@
 {
-	"dccons": [{"keywords": ["응아1"],
+	"dccons": [{"keywords": ["떡상"],
+		"tags": ["미지정"],
+		"path": "https://raw.githubusercontent.com/poopki2018/JSON/main/namu_dccon/dduksang.jpg"
+	},{
+		"keywords": ["가즈아"],
+		"tags": ["미지정"],
+		"path": "https://raw.githubusercontent.com/poopki2018/JSON/main/namu_dccon/gazua.jpg"
+	},{"keywords": ["응아1"],
 		"tags": ["동물의숲"],
 		"path": "https://raw.githubusercontent.com/poopki2018/JSON/main/namu_dccon/toilet1.jpg"
 	},{
